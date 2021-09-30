@@ -22,5 +22,4 @@ Y = train['Survived']
 
 print(Y)
 print(X)
-print(Y)
-print(X)
+
