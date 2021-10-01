@@ -20,6 +20,6 @@ variaveis = ['Sex_bin', 'Age']
 X = train[variaveis]
 Y = train['Survived']
 
-print(X)
+print(Y)
 print(X)
 
